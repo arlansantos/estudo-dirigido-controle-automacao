@@ -10,9 +10,9 @@ Este estudo dirigido aborda os seguintes capítulos do livro **"Sistemas de Cont
 
 3. **Capítulo 6: A Estabilidade de Sistemas de Feedback Linear**  
 
-4. **Capítulo 7: Método do Lugar das Raízes (Root Locus)**  
+4. **Capítulo 7: Método do Lugar das Raízes**  
 
-5. **Capítulo 10: Projeto de Sistemas de Controle com Realimentação**  
+5. **Capítulo 10: Projeto de Sistemas de Controle de Feedback**  
 
 6. **Capítulo 13: Sistemas de Controle Digital**  
 
